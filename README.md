@@ -1,13 +1,5 @@
 # Movie_Review_Sentiment_Analysis_Transformers
 A movie review sentiment analysis project using PyTorch and a custom transformer model to classify IMDB reviews as positive or negative.
-The project uses the IMDB movie review dataset to train and evaluate the model.
-# Movie Review Sentiment Analysis
-
-## About the Project
-
-SentimentScope is a movie review sentiment analysis project that uses a custom transformer model built with PyTorch.
-
-The goal is to classify IMDB movie reviews as either **positive** or **negative**.
 
 ## Dataset
 

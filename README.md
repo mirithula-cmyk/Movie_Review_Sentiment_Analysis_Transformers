@@ -17,18 +17,18 @@ Pandas
 NumPy
 Jupyter Notebook
 
---> A custom transformer model called DemoGPT was implemented using:
+# A custom transformer model called DemoGPT was implemented using:
 Token Embeddings
 Positional Embeddings
 Transformer Blocks
 Layer Normalization
 Mean Pooling
 
--->The model classifies reviews into two categories:
+# The model classifies reviews into two categories:
 Positive
 Negative
 
--->Training
+# Training
 Optimizer: AdamW
 Loss Function: CrossEntropyLoss
 Initial Training: 3 Epochs then 5 Epochs
